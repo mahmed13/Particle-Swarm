@@ -11,3 +11,7 @@ Exploration vs Exploitation! Simple implementation of a genetic algorithm using 
 • -g: a maximum number of generations (default: 50) 
 
 • -r: a random seed (default: -1)
+
+# running 
+Your script should be able to be invoked as follows:
+> python Swarm.py train.data train.label test.data
