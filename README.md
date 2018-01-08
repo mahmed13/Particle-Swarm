@@ -8,6 +8,6 @@ Exploration vs Exploitation! Simple implementation of a genetic algorithm using 
 
 • -m: a mutation rate (default: 0.05)
 
-• -g: a maximum number of generations (default: 50) • -r: a random seed (default: -1)
+• -g: a maximum number of generations (default: 50) 
 
 • -r: a random seed (default: -1)
