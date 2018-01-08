@@ -12,6 +12,6 @@ Exploration vs Exploitation! Simple implementation of a genetic algorithm using 
 
 • -r: a random seed (default: -1)
 
-# running 
+# Running 
 Your script should be able to be invoked as follows:
 > python Swarm.py train.data train.label test.data
